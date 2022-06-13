@@ -6,6 +6,8 @@ Set up a nexcord app by running a single command
 
 ---
 
+Same thing I made for [pycord](https://github.com/kekda-py/create-pycord-app)
+
 ### Installation
 If u have go installed, u can do
 ```
