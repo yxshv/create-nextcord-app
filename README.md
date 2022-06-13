@@ -9,16 +9,27 @@ Set up a nexcord app by running a single command
 Same thing I made for [pycord](https://github.com/kekda-py/create-pycord-app)
 
 ### Installation
+
 If u have go installed, u can do
+
 ```
 go install github.com/kekda-py/create-nextcord-app@latest
 ```
+
 If u dont then please download the executable `create-nextcord-app.exe` from the repo
 
 ### Usage
 
 ```
 create-nextcord-app
+```
+
+```
+Creating a new nextcord app..
+
+? What is the bot's name? (the greatest bot) 
+? What should be the directory's name? (./) 
+? Bots token? TOTALLY_REAL_TOKEN
 ```
 
 ### Contributing
